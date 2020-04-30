@@ -6,7 +6,7 @@
 
 A friendly explanation of what your tile does.
 
-This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard/v1/introduction/)
+This tile can be used on [the Laravel Dashboard]https://docs.spatie.be/laravel-dashboard).
 
 ## Installation
 
