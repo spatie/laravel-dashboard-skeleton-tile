@@ -4,7 +4,9 @@
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/:vendor/:package_name/run-tests?label=tests)](https://github.com/:vendor/:package_name/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square)](https://packagist.org/packages/:vendor/:package_name)
 
-A friendly explanation of what your tile does
+A friendly explanation of what your tile does.
+
+This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard/v1/introduction/)
 
 ## Installation
 
