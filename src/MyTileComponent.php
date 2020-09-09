@@ -9,7 +9,7 @@ class MyTileComponent extends Component
     public function render()
     {
         return view('dashboard-skeleton-tile::tile', [
-            'stations' => MyStore::make()->stations(),
+            'myData' => MyStore::make()->getData(),
             'refreshIntervalInSeconds' => config('dashboard.tiles.skeleton.refresh_interval_in_seconds') ?? 60,
 
         ]);
